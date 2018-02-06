@@ -3,6 +3,8 @@ Top 40 Vue.js Articles of 2017
 
 <img src="background.png" width="800" alt="Mybridge"></a>
 
+[English Version](./README.md) | [中文版本](./CN.md)
+
 For Jan-Dec 2017, we compared nearly 10,000 articles about Vue.js and picked the Top 40 (0.4%).
 
 This is an extremely competitive list. Mybridge AI ranks articles based on the quality of content measured by our machine and a variety of human factors including the number of shares and minutes read.
