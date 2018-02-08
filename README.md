@@ -41,7 +41,7 @@ If you like a version with images: [Go to our Medium link](https://goo.gl/MTnGCn
 
 A) Beginner: [Vue JS 2 Course for Students with ZERO ES6 foundation: Master VueJS, NPM, Webpack, Vue JS CLI, components, Router, and VueX.](http://bit.ly/2GTeexh) [175 recommends, 4.9/5 stars]
 
-B) Algorithm: [Learning Algorithms in JavaScript from Scratch: Make your code more efficient and get ready for interviews.](http://bit.ly/2qvDPZd) [14,488 recommends, 4.7/5 stars]
+B) Nuxt.js: [Nuxt.js — Vue.js on Steroids. Build highly engaging Vue JS apps with Nuxt.js. Nuxt adds easy server-side-rendering and a folder-based config approach.](http://bit.ly/2GU4V01) [500 recommends, 5/5 stars]
 
 <br>
 
